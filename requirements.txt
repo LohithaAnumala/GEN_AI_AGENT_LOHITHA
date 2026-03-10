@@ -1,0 +1,15 @@
+ubuntu@ip-172-31-2-71:~$ cat requirements.txt
+fastapi
+uvicorn
+langchain==0.1.16
+langchain-community==0.0.34
+langchain-groq
+sentence-transformers
+faiss-cpu
+python-dotenv
+pydantic
+numpy
+cachetools
+
+ubuntu@ip-172-31-2-71:~$ ^C
+ubuntu@ip-172-31-2-7
