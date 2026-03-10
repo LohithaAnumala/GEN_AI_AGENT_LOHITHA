@@ -1,0 +1,22 @@
+Comman Illness Symptoms Guide
+
+Flu:
+Symptoms : fever,headache,bodypains,fatigue,cough.
+Recommendation:rest,drink fluids,consult a doctor if fever persists.
+
+Common Cold : 
+Symptoms : sneezing , runny nose, sore throat, mild cough.
+Recommendation: rest,warm fluids, over-the counter medicine.
+
+Food poisoning:
+Symptoms : stomach pain  ,vomiting, diarrhea, nausea.
+Recommendation : drink fluids, rest , seek medical help if severe.
+
+Migrane : 
+Symptoms : severe headache , sensitivity to light ,nausea.
+Recommendation: rest in dark room , pain relief medicine.
+
+Covid 19 : 
+Symptoms : fever , cough , loss of smell,breathing difficulty.
+Recommendation : isolate and consult healthcare provider.
+ubuntu@ip-172-31-2-71:~/data$ 
