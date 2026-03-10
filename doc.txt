@@ -1,0 +1,5 @@
+ubuntu@ip-172-31-2-71:~/data$ cat docs.txt
+LLMOps is the practice of deploying,monitoring Large language models in production.
+RAG Stand for Retrieval augmented generation . It improvees LLM response by retriving relavent documents.
+Vector databses store embeddings of documents and enable semantic search.
+ubuntu@ip-172-31-2-71:~/data$ 
